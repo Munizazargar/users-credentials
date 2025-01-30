@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "muniza proj 1.0", "muniza proj 1.0\muniza proj 1.0.csproj", "{A6529D10-02CF-43D5-859B-59EFCF219E7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6529D10-02CF-43D5-859B-59EFCF219E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6529D10-02CF-43D5-859B-59EFCF219E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6529D10-02CF-43D5-859B-59EFCF219E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6529D10-02CF-43D5-859B-59EFCF219E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F93E2034-0035-4202-8D2B-F6FEFCB879B5}
+	EndGlobalSection
+EndGlobal

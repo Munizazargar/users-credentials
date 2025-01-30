@@ -1,0 +1,9 @@
+﻿create database users_1
+use  users_1
+create table userinfo(
+user_id int unique identity,
+user_name varchar (30) not null,
+user_email varchar (30) not null,
+user_password varchar (40) not null,
+)
+select*from userinfo
